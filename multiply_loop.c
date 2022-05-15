@@ -13,4 +13,3 @@ int main(int argc, char const *argv[])
     printf("Final product = %d\n", product);
     return 0;
 }
-// 5.4
